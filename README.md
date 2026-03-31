@@ -30,7 +30,7 @@ A modern and interactive **Password Generator & Strength Checker** built using *
 
 ## 📸 Preview
 
-> ![App Screenshot](img1.png)
+> ![App Screenshot](img2.png)
 
 ---
 
