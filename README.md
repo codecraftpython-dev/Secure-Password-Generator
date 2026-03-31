@@ -30,9 +30,9 @@ A modern and interactive **Password Generator & Strength Checker** built using *
 
 ## 📸 Preview
 
-> <p align="center">
-  <img src="img1.png" width="45%"/>
-  <img src="img2.png" width="45%"/>
+<p align="center">
+  <img src="img1.png" width="40%"/>
+  <img src="img2.png" width="40%"/>
 </p>
 ---
 
