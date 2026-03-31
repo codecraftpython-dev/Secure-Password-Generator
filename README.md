@@ -30,7 +30,7 @@ A modern and interactive **Password Generator & Strength Checker** built using *
 
 ## 📸 Preview
 
-> [image alt](https://raw.githubusercontent.com/codecraftpython-dev/Secure-Password-Generator/refs/heads/main/img1.png)
+> ![App Screenshot](img1.png)
 
 ---
 
