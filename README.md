@@ -30,8 +30,10 @@ A modern and interactive **Password Generator & Strength Checker** built using *
 
 ## 📸 Preview
 
-> *(Add your app screenshot here for better presentation)*
-
+<p align="center">
+  <img src="img1.png" width="40%"/>
+  <img src="img2.png" width="40%"/>
+</p>
 ---
 
 ## ⚙️ How to Run
