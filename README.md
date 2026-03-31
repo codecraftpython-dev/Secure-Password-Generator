@@ -32,6 +32,7 @@ A modern and interactive **Password Generator & Strength Checker** built using *
 
 > <p align="center">
   <img src="img1.png" width="600"/>
+  <img src="img2.png" width="600"/>
  </p>
 ---
 
